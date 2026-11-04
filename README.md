@@ -29,7 +29,6 @@ Soy un desarrollador Full Stack, con experiencia en soporte técnico y mantenimi
 
 ## 📫 Contacto
 
-- **LinkedIn:** [www.linkedin.com/in/vpolanco127
+- **LinkedIn:** www.linkedin.com/in/vpolanco127
 
-]
-- **Email:** [victorpolanco609@gmail.com]
+- **Email:** victorpolanco609@gmail.com
