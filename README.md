@@ -1,6 +1,6 @@
 # Hola, soy Víctor 👋
 
-Soy un desarrollador Full Stack radicado en El Salvador, enfocado en construir aplicaciones web eficientes, escalables y con interfaces limpias. Me apasiona resolver problemas técnicos complejos, abarcando desde el diseño de la arquitectura de la base de datos hasta la experiencia del usuario final.
+Soy un desarrollador Full Stack, con experiencia en soporte técnico y mantenimiento de equipos informáticos, mi principal enfoque es construir aplicaciones web eficientes, escalables y con interfaces limpias. Me apasiona resolver problemas técnicos complejos, abarcando desde el diseño de la arquitectura de la base de datos hasta la experiencia del usuario final.
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -26,10 +26,6 @@ Soy un desarrollador Full Stack radicado en El Salvador, enfocado en construir a
 * **Scent Factory** - Catálogo interactivo de perfumería construido con Next.js y Supabase. 
 * **E-commerce REST API** - API desarrollada en Laravel 12 con autenticación JWT, integración de pagos con Stripe y documentación completa en Swagger.
 * **Sistema de Gestión de Mantenimiento IT** - Aplicación web para el control de inventario y registros de mantenimiento utilizando Laravel, Vue.js y MySQL.
-
-## 📈 Actividad
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vxctorp12&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=gray)
 
 ## 📫 Contacto
 
