@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hola, soy Víctor 👋
 
-<!--
-**vxctorp12/vxctorp12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador Full Stack radicado en El Salvador, enfocado en construir aplicaciones web eficientes, escalables y con interfaces limpias. Me apasiona resolver problemas técnicos complejos, abarcando desde el diseño de la arquitectura de la base de datos hasta la experiencia del usuario final.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:**
+- JavaScript / TypeScript
+- React / Next.js
+- Vue.js / Inertia.js
+- Tailwind CSS / HTML / CSS
+
+**Backend:**
+- PHP / Laravel
+- Java / Spring Boot
+- Node.js / Express
+- C#
+
+**Bases de Datos & DevOps:**
+- MySQL / PostgreSQL / TiDB
+- Docker / Linux / WSL
+- Git / Postman / OpenAPI (Swagger)
+
+## 🚀 Proyectos Destacados
+
+* **Scent Factory** - Catálogo interactivo de perfumería construido con Next.js y Supabase. 
+* **E-commerce REST API** - API desarrollada en Laravel 12 con autenticación JWT, integración de pagos con Stripe y documentación completa en Swagger.
+* **Sistema de Gestión de Mantenimiento IT** - Aplicación web para el control de inventario y registros de mantenimiento utilizando Laravel, Vue.js y MySQL.
+
+## 📈 Actividad
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vxctorp12&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=gray)
+
+## 📫 Contacto
+
+- **LinkedIn:** [www.linkedin.com/in/vpolanco127
+
+]
+- **Email:** [victorpolanco609@gmail.com]
